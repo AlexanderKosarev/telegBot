@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1344e508-5d4d-4e67-9808-a7e38b24216e" name="botServer" url="http://ovz1.j285275.6okmz.vps.myjino.ru">
+        <fileTransfer host="ovz1.j285275.6okmz.vps.myjino.ru" port="49221" rootFolder="/home/project/bot" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="49221" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
